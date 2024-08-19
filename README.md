@@ -1,1 +1,1 @@
-public URL: https://fitness-journey.azurewebsites.net/
+URL: https://fitness-journey.azurewebsites.net/
